@@ -1,8 +1,9 @@
 <script setup lang="ts">
+import Editor from "@/components/Editor.vue";
 </script>
 
 <template>
-  asdasd
+  <editor/>
 </template>
 
 <style lang="scss" scoped>
